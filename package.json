@@ -6,6 +6,9 @@
     "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
+  "endines": {
+    "node": "9.3.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
